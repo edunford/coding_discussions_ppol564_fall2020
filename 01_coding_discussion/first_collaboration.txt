@@ -10,3 +10,7 @@ b. I learned how to create a git repository and push using the commandline.
 Ella Zhang
 a. I decided to come to a public policy school because I'm interested in international development policy. I think DC is probably the best place to see how policies function, so I joined McCourt.
 B. I learned how to customize my commandline using "Oh My Zsh". My terminal shell now looks super pretty.
+
+Charlie Zhang
+a. I decided to go to public policy school because there is a need to fix real-world problems, instead of talking theoretically.
+b. I learned how to build a GitHub page and link it to a custom domain. 
