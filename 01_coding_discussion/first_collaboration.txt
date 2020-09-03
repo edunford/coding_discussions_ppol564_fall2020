@@ -31,3 +31,7 @@ b. I learned that some people use GUIs like GitKraken to visualize git interacti
 Carmen Wang
 a. I decided to come to a public policy school because I have always been interested in education and public health issues that exist in today's society and I want to make some impacts on solving real problems. 
 b. I leanred how to interact with the commandline. I tried it before in one of my previous classes but I had some problems with the command prompt. Git Bash works way better!
+
+Chau Nguyen
+a. I decided to go to grad school because after 4 years at my first job out of college, it was time to go back to school for further education. I chose public policy & data science because I felt like it was the natural next step for my career - I already have some background in research and policy analysis from my undergrad degree and my work at the IMF, but not formal training in public policy or data science yet. I am passionate about policy design, and I'm interested in learning more about implementing behavioral science in designing better policies.
+b. I learned this week how to use git & github. I have downloaded different things (Stata & R packages, for example) from github before, but never really learned how to properly use it. 
