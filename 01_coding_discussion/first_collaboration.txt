@@ -1,3 +1,9 @@
+
 Madeline Kinnaird
-I decided to come to a public policy school because I love civic tech (s/o to Chi Hack Night) so I find the the intersection of data science and public policy super exciting! I'm specifically interested in technology policy and environmental policy. I studied Electrical Engineering in undergrad (specializing in power and renewable energy) and for my capstone I designed a circuit that would store the excess energy from an oil rig's motor torque into a battery. More recently in my work, I put together a business case for using solar energy to power AT&T’s data centers nationally and then joined a cyber security team that fiddled with AT&T network data. TLDR, 1) I love civic tech and data 2) I'm all about intersectional enviromentalism 3) Excited to be here!
-This week I finally grasped git. I've tried teaching myself before and honestly struggled with understanding it. Using the visualizations and graphics to explain the staging/workflow was a GAMECHANGER. 
+a. I decided to come to a public policy school because I love civic tech (s/o to Chi Hack Night) so I find the the intersection of data science and public policy super exciting! I'm specifically interested in technology policy and environmental policy. I studied Electrical Engineering in undergrad (specializing in power and renewable energy) and for my capstone I designed a circuit that would store the excess energy from an oil rig's motor torque into a battery. More recently in my work, I put together a business case for using solar energy to power AT&T’s data centers nationally and then joined a cyber security team that fiddled with AT&T network data. TLDR, 1) I love civic tech and data 2) I'm all about intersectional enviromentalism 3) Excited to be here!
+b. This week I finally grasped git. I've tried teaching myself before and honestly struggled with understanding it. Using the visualizations and graphics to explain the staging/workflow was a GAMECHANGER. 
+
+Justine Giaky Huynh 
+a. I chose to study at a public policy school because I love fighting for social justice. I'm especially interested in any policy relating to gender and sex (but also okay with relating to race) because growing up, I faced sexual discrimination from my parents.
+b. I learned how to create a git repository and push using the commandline.
+
