@@ -27,3 +27,7 @@ b. The whole concept of version control is super cool! I have heard of Git and G
 Gloria Li
 a. I came to a public policy school because I am passionate about civics and have always wanted to live in DC. With my undergrad background in environmental science, philosophy, and law, I highly value an intersectional education; when I heard about DSPP, I knew it would be a great fit. Energy policy excites me the most because America (and the world) is at a very interesting junction in terms of accelerated renewable energy growth. I want to be part of it! 
 b. I learned that some people use GUIs like GitKraken to visualize git interactions rather than the command line. 
+
+Carmen Wang
+a. I decided to come to a public policy school because I have always been interested in education and public health issues that exist in today's society and I want to make some impacts on solving real problems. 
+b. I leanred how to interact with the commandline. I tried it before in one of my previous classes but I had some problems with the command prompt. Git Bash works way better!
