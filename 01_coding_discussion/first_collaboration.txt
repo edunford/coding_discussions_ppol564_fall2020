@@ -23,3 +23,7 @@ Rosey Cao
 a. I decided to come to McCourt because the DSPP program is really a unique program in terms of data + public policy. I don’t have much prior experience with these two areas, so I wish to develop my skills through attending a policy school. I’m interested in urban + social policy, as well as international development. I hope the knowledge I learn in the following two years can help me to design policies culturally and geographically appropriate to the people living in developing areas. 
 
 b. The whole concept of version control is super cool! I have heard of Git and GitHub, but I didn’t know what they exactly do. 
+
+Gloria Li
+a. I came to a public policy school because I am passionate about civics and have always wanted to live in DC. With my undergrad background in environmental science, philosophy, and law, I highly value an intersectional education; when I heard about DSPP, I knew it would be a great fit. Energy policy excites me the most because America (and the world) is at a very interesting junction in terms of accelerated renewable energy growth. I want to be part of it! 
+b. I learned that some people use GUIs like GitKraken to visualize git interactions rather than the command line. 
