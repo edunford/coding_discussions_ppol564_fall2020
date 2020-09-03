@@ -7,3 +7,6 @@ Justine Giaky Huynh
 a. I chose to study at a public policy school because I love fighting for social justice. I'm especially interested in any policy relating to gender and sex (but also okay with relating to race) because growing up, I faced sexual discrimination from my parents.
 b. I learned how to create a git repository and push using the commandline.
 
+Ella Zhang
+a. I decided to come to a public policy school because I'm interested in international development policy. I think DC is probably the best place to see how policies function, so I joined McCourt.
+B. I learned how to customize my commandline using "Oh My Zsh". My terminal shell now looks super pretty.
