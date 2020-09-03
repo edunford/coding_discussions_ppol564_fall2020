@@ -14,3 +14,7 @@ B. I learned how to customize my commandline using "Oh My Zsh". My terminal shel
 Charlie Zhang
 a. I decided to go to public policy school because there is a need to fix real-world problems, instead of talking theoretically.
 b. I learned how to build a GitHub page and link it to a custom domain. 
+
+Sahithi Adari 
+a. I decided to come to a public policy school because I'm really passionate about the internet and want to ensure the privacy of it’s citizens. Specifically as it related to user privacy and well as data control. I grew up in a family of computer engineers so online privacy was always top-of-mind for me and something that I’ve incorporated to my everyday life (I don’t use social media and I’ve removed google off of my android phone). It really scares me the amount of information that large organizations have on people as well as how they’re able to use that information to affect human behaviors. Ultimately I believe that the right of user data belongs to the people and not a corporation and want to work towards that goal. 
+b. That Git and Github were two different things. I definitely thought they were one and the same thing. 
