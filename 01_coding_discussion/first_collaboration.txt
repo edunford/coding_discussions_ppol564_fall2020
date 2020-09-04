@@ -35,3 +35,7 @@ b. I leanred how to interact with the commandline. I tried it before in one of m
 Chau Nguyen
 a. I decided to go to grad school because after 4 years at my first job out of college, it was time to go back to school for further education. I chose public policy & data science because I felt like it was the natural next step for my career - I already have some background in research and policy analysis from my undergrad degree and my work at the IMF, but not formal training in public policy or data science yet. I am passionate about policy design, and I'm interested in learning more about implementing behavioral science in designing better policies.
 b. I learned this week how to use git & github. I have downloaded different things (Stata & R packages, for example) from github before, but never really learned how to properly use it. 
+
+Ruyi Yang
+a. I choose to go to public policy school because I got intrigued in studying the social issues using data analytics in my statistics classes in undergrad, which incites me to further develop my data science skills and contribute to the society. I am most interested in tax policy and sociology.
+B. I learnt to use git to track my projects.
