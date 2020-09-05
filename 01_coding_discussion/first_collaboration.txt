@@ -46,3 +46,8 @@ B. I learnt to use git to track my projects.
 Alex Adams
 a. I decided to go to public policy school because I was initially planning on pursuing a Ph.D in political science, and then the more I thought about it, the more I realized that that degree was not as relevant to my future career goals as I originally thought, and that a masters degree with relevant skills (like data science) would still give me a graduate-level credential without waiting too long to enter the workforce. I might still go for a doctorate at some point, but I think I would rather have that be a personal goal than an essential part of my career trajectory. Mainly, I want to learn about policy, rather than politics.
 b. I learned that there is so much more to version control than just locally saving a bunch of files with minor name variations. I knew that Github was a thing that existed, but this week (and really this assignment) is the first time I've ever used it.
+
+Merykokeb Belay
+a. I chose to come to public policy school because I am eager to learn about civic technology. I am interested in the application of civic technology to improve public service delivery and the ethical issues that arise from its application.
+b. I learned what version control means and how to use git and git hub to achieve it. Also, using the 'visualizing git' tool was a really cool way to understand what is behind each git command. 
+
