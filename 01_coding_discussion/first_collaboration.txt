@@ -42,3 +42,7 @@ b. I learned this week how to use git & github. I have downloaded different thin
 Ruyi Yang
 a. I choose to go to public policy school because I got intrigued in studying the social issues using data analytics in my statistics classes in undergrad, which incites me to further develop my data science skills and contribute to the society. I am most interested in tax policy and sociology.
 B. I learnt to use git to track my projects.
+
+Merykokeb Belay
+a. I chose to come to public policy school because I am eager to learn about civic technology. I am interested in the application of civic technology to improve public service delivery and the ethical issues that arise from its application.
+b. I learned what version control means and how to use git and git hub to achieve it. Also, using the 'visualizing git' tool was a really cool way to understand what is behind each git command. 
