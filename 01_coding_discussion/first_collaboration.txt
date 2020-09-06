@@ -1,4 +1,4 @@
-﻿Yousuf Abdelfatah
+Yousuf Abdelfatah
 a. I decided to come to a public polciy school because after working in social science research for a few years I realized how useful data science could be in fields I had traditionally thought of as being more qualitative. However I didn't want to do a program that was solely focused on data science without the application component and so the MS-DSPP seemed perfect. Ultimately I would like to do a PhD and so I'm hoping that this program will give me a strong methodological base. Topically I am interested in regime stability, conflict, and political transition. In the past I have primarily focused on the Middle East but I have done some work on these issues as they related to other regions (particualry Latin America and Central Africa).
 b. I'd used git previously but only through the command line. This week made me far more comfortable with GUIs and with the git functionality contained in text editors like atom and VSC.
 
@@ -54,3 +54,8 @@ b. I learned what version control means and how to use git and git hub to achiev
 Maryam Khalid Shah
 a. I decided to come to a public policy school because I had seen first-hand how well-intentioned but poorly implemented policies can have such adverse effects (especially on low-income societies). I also wanted to improve my quantitative skills so that I can understand and tackle policy issues more efficiently.
 b. I learned about version control - this  was a concept that was entirely new to me. The most interesting thing though that I learned was using 'git checkout' to move between different commits (I was like a kid watching a magic show when I would watch files disappear and reappear on my local repository).
+
+Zixun Hao
+a. I decided to come to a public policy school because I've always been interested in policy decisions' effects -good or bad- on social issues and general wellbeing, especially educational and cultural policies. I'm also intrigued by the essential role of data and well-conducted research in forming these decisions. I been interning/working in art non-profits for the past two years. Published in 2019, a survey data shows that only 11% of all work acquired by the US’s top museums was by women in the past decade. This propels many museum leaders to face the deep-rooted problem and promote more women artists. I want to be able to use the power of data to dissect problems like this and drive policy changes. 
+b. I'm especially happy to learned about version control via git and github this week. Using the git visualization tool to understand and track workflow/branch gave me a much clearer idea of version control.
+
