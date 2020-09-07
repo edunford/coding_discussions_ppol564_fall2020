@@ -70,3 +70,6 @@ b. I learned this week why Git/GitHub is so ubiquitous in the programming world.
 Matthew Alexander Ring
 a. I decided to come to public policy school because I found it difficult to continue in my Physics program with everything happening in the world. It seemed unfair to continue in the sciences when I could be helping others by working in policy. As such, my main policy area of interest is education.
 b. I learned ways of visualizing and maneuvering through branches in Git. I've used Git for a long time (3 years) and never truly understand how to work with different branches or use Git for group projects.
+Vince Egalla
+a. I decided to come to a public policy school because I want my career to be in service to society and I've decided that public policy would be the medium for me to serve.
+b. I learned git for the first time in this class. I am excited to see how our data science projects will require this level of version control as my professional experience has my skeptical of the necessity of git. It so far seems excessive, but I will find out.
